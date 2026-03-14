@@ -1,0 +1,45 @@
+h1 {
+    color: rgb(12, 8, 7);
+}
+
+p{
+    font-size: 20px;
+}
+
+header{
+
+    background-color: rgb(19, 2, 59);
+    color: rgb(248, 248, 248);
+    padding: 10px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+img{
+
+   height: 300px;
+    width: 300px;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+ 
+.rodape{
+    
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  border-top: 3px solid rgb(44, 5, 170);
+  font-family: Arial, sans-serif;
+}
+
